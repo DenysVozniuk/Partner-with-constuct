@@ -1,0 +1,17 @@
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .header-nav-list li + li {
+        margin-left: 48px;
+     }
+
+    .about-img div + div{
+        margin-left: 20px;
+    }
+
+    .services-content div + div {
+        margin-left: 28px;
+    }
+
+    .footer-links-blocks div + div {
+        margin-left: 36px;
+    }
+}
